@@ -3,3 +3,5 @@
 3: Hello, world!
 7: Hello, world!
 8: New history test line
+9: Change to test revert
+10: Another change
